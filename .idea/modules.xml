@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/114_flatten-binary-tree-to-linked-list/114_flatten-binary-tree-to-linked-list.iml" filepath="$PROJECT_DIR$/114_flatten-binary-tree-to-linked-list/114_flatten-binary-tree-to-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/144_binary-tree-preorder-traversal/144_binary-tree-preorder-traversal.iml" filepath="$PROJECT_DIR$/144_binary-tree-preorder-traversal/144_binary-tree-preorder-traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/415_add-strings/415_add-strings.iml" filepath="$PROJECT_DIR$/415_add-strings/415_add-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binode/Binode.iml" filepath="$PROJECT_DIR$/Binode/Binode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/add-two-numbers/add-two-numbers.iml" filepath="$PROJECT_DIR$/add-two-numbers/add-two-numbers.iml" />
