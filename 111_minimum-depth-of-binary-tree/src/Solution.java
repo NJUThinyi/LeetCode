@@ -42,10 +42,14 @@ public class Solution {
             return;
         }
         if(t.left!=null){
-            traverse(t.left, ++level);
+            level++;
+            traverse(t.left, level);
+            level--;
         }
         if(t.right!=null){
-            traverse(t.right, ++level);
+            level++;
+            traverse(t.right, level);
+            level--;
         }
     }
 
