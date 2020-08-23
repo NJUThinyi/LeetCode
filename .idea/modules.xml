@@ -5,12 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/111_minimum-depth-of-binary-tree/111_minimum-depth-of-binary-tree.iml" filepath="$PROJECT_DIR$/111_minimum-depth-of-binary-tree/111_minimum-depth-of-binary-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/114_flatten-binary-tree-to-linked-list/114_flatten-binary-tree-to-linked-list.iml" filepath="$PROJECT_DIR$/114_flatten-binary-tree-to-linked-list/114_flatten-binary-tree-to-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/144_binary-tree-preorder-traversal/144_binary-tree-preorder-traversal.iml" filepath="$PROJECT_DIR$/144_binary-tree-preorder-traversal/144_binary-tree-preorder-traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/207_course-schedule/207_course-schedule.iml" filepath="$PROJECT_DIR$/207_course-schedule/207_course-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_generate-parentheses/22_generate-parentheses.iml" filepath="$PROJECT_DIR$/22_generate-parentheses/22_generate-parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/415_add-strings/415_add-strings.iml" filepath="$PROJECT_DIR$/415_add-strings/415_add-strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binode/Binode.iml" filepath="$PROJECT_DIR$/Binode/Binode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/add-two-numbers/add-two-numbers.iml" filepath="$PROJECT_DIR$/add-two-numbers/add-two-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.iml" filepath="$PROJECT_DIR$/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/magic-index-lcci/magic-index-lcci.iml" filepath="$PROJECT_DIR$/magic-index-lcci/magic-index-lcci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer29_shun-shi-zhen-da-yin-ju-zhen-lcof/offer29_shun-shi-zhen-da-yin-ju-zhen-lcof.iml" filepath="$PROJECT_DIR$/offer29_shun-shi-zhen-da-yin-ju-zhen-lcof/offer29_shun-shi-zhen-da-yin-ju-zhen-lcof.iml" />
       <module fileurl="file://$PROJECT_DIR$/two-sum/two-sum.iml" filepath="$PROJECT_DIR$/two-sum/two-sum.iml" />
     </modules>
   </component>
